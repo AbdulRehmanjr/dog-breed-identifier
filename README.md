@@ -108,10 +108,4 @@ Contributions, feature requests, or ideas are welcome! Fork the repo, create a b
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
----
 
-## 👨‍💻 Author
-
-[**Abdul Rehman**](https://abdulr.dev)
-
----
